@@ -7,6 +7,8 @@
 
 ## Describe your project
 
+Dillon is my partner.
+
 Our project contains a program that runs the data of 149 participants and what their order is at a pizza restaurant. In the code, the text files contain the size of the order, the name of the pizza ordered, the ingredients within the pizza, and the cost of the pizza. The goal that the program should achieve is to learn more about our frequent visitors so we can provide better recommendations. 
 
 There are 2 classes: UserStory and RestaurantData
